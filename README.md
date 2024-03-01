@@ -1,7 +1,5 @@
-Hey, I'm Lucas.
+Hey,
 
-I have an obsession with the intersection of math, science, and art.
+I have a deep interest in the intersection of science, art, and nature. I look to create systems that aid in well-being.
 
-I'm interested in building software to aid with productivity, mindfulness, and well-being.
-
-Currently, I mostly develop with Python and Javascript. If I require extra efficiency, C++ is my go to.
+I'd love to hear from you if you'd like to collaborate!
